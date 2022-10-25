@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cffcb89a-784d-4399-a431-e4f10fc45470" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjetoFinal_Modulo2_POO_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoacaoMidia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Midia.java" afterDir="false" />
-    </list>
+    <list default="true" id="cffcb89a-784d-4399-a431-e4f10fc45470" name="Changes" comment="Projeto final POO Modulo2 programa DEVA - JAVA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +41,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666728133737</updated>
-      <workItem from="1666728136089" duration="670000" />
+      <workItem from="1666728136089" duration="1077000" />
     </task>
+    <task id="LOCAL-00001" summary="Projeto final POO Modulo2 programa DEVA - JAVA">
+      <created>1666729205226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666729205226</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto final POO Modulo2 programa DEVA - JAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto final POO Modulo2 programa DEVA - JAVA" />
   </component>
 </project>
