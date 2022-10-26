@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cffcb89a-784d-4399-a431-e4f10fc45470" name="Changes" comment="Projeto final POO Modulo2 programa DEVA - JAVA">
+    <list default="true" id="cffcb89a-784d-4399-a431-e4f10fc45470" name="Changes" comment="Adições corpo das classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Midia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Midia.java" afterDir="false" />
@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666728133737</updated>
-      <workItem from="1666728136089" duration="5279000" />
+      <workItem from="1666728136089" duration="6972000" />
     </task>
     <task id="LOCAL-00001" summary="Projeto final POO Modulo2 programa DEVA - JAVA">
       <created>1666729205226</created>
@@ -61,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666729379990</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adições corpo das classes">
+      <created>1666742495701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666742495701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projeto final POO Modulo2 programa DEVA - JAVA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto final POO Modulo2 programa DEVA - JAVA" />
+    <MESSAGE value="Adições corpo das classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adições corpo das classes" />
   </component>
 </project>

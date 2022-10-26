@@ -11,7 +11,7 @@ public class Midia {
     }
 
     public void darPlay() {
-        //desenvolver
+        System.out.println("A mídia está sendo executada!");
 
     }
 

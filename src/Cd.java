@@ -26,6 +26,11 @@ public class Cd extends Midia{
     }
 
     @Override
+    public void darPlay() {
+        System.out.println("Primeira faixa tocando");
+    }
+
+    @Override
     public String toString() {
         return super.toString() + "Cd{" +
                 "artista='" + artista + '\'' +
