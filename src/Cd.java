@@ -3,7 +3,7 @@ public class Cd extends Midia{
     private String artista;
     private  int quantidadeDeFaixas;
 
-    public Cd (String nome, String codigo, Double preco){
+    public Cd (String nome, String codigo, Double preco, String artista, int quantidadeDeFaixas){
         super(nome, codigo, preco);
         this.artista = artista;
         this.quantidadeDeFaixas = quantidadeDeFaixas;
@@ -14,6 +14,7 @@ public class Cd extends Midia{
     }
 
     public void setArtista(String artista ) {
+
         this.artista = artista;
     }
 

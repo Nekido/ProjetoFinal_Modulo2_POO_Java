@@ -1,10 +1,45 @@
+import java.util.Random;
+
 public class DoacaoMidia {
 
     public static void main(String[] args) {
 
+        Midia midia = pegarMidiaAleatoria();
+
+
     }
 
 
+    public static Midia pegarMidiaAleatoria() {
+        Cd  um = new Cd("Reliquias", "25B369", 35.00,"Roberto Carlos",16);
+        Dvd  dois = new Dvd("Dupla Dinâmica","31MV55",66.87,"En-USA",true, "Pt-Br");
+        Cd tres= new Cd("Melhores do ano","02M378", 90.33,"Pagodão", 24);
+        Dvd quatro = new Dvd("Tom e Jerry","78ZY55", 21.00, "En-USA",true,"ES");
+
+        Random pegar= new Random();
+
+        int escolha = pegar.nextInt(3);
+
+
+        switch (escolha){
+
+            case 0:
+                return um;
+            case 1:
+                return dois;
+            case 2:
+                return tres;
+            default:
+                return quatro;
+
+        }
+
+
+    }
+
+public static void assitirfilme(){
+      //  Dvd dvd = new legenda();
+}
 }
 //    Criar classe DoacaoMidia
 //

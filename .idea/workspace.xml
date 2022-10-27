@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cffcb89a-784d-4399-a431-e4f10fc45470" name="Changes" comment="Projeto final POO Modulo2 programa DEVA - JAVA">
+    <list default="true" id="cffcb89a-784d-4399-a431-e4f10fc45470" name="Changes" comment="Adições corpo das classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dvd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoacaoMidia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoacaoMidia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,6 +37,20 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="DoacaoMidia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoacaoMidia" />
+      <module name="ProjetoFinal_Modulo2_POO_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DoacaoMidia" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666728133737</updated>
       <workItem from="1666728136089" duration="6972000" />
+      <workItem from="1666901210135" duration="4436000" />
     </task>
     <task id="LOCAL-00001" summary="Projeto final POO Modulo2 programa DEVA - JAVA">
       <created>1666729205226</created>
