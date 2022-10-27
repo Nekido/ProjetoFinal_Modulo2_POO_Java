@@ -21,7 +21,6 @@ public class DoacaoMidia {
 
         int escolha = pegar.nextInt(3);
 
-
         switch (escolha) {
 
             case 0:
@@ -38,13 +37,14 @@ public class DoacaoMidia {
 
     }
 
-    public static void assitirfilme() {
-        //  Dvd dvd = new legenda();
+    public static void assitirFilme(Dvd dvd) {
+        dvd.legenda(dvd.isPossuiLegenda(), dvd.getIdiomaLegenda());
+        dvd.legenda(dvd.isPossuiLegenda());
     }
 }
 //    Criar classe DoacaoMidia
 //
-//        Essa classe deve conter método pegarMidiaAleatoria() que devolve uma midia já criada na biblioteca
+//        Essa classe deve conter método pegarMidiaAleatoria() que devolve a variável possuiLegendauma midia já criada na biblioteca
 //
 //        aleatória
 //

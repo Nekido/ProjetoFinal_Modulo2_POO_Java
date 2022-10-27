@@ -50,14 +50,27 @@ public class Dvd extends Midia {
         if(isPossuiLegenda()) {
             ligar = true;
             this.idiomaLegenda = idioma;
+            System.out.println("Legenda ligada: " + ligar + "\nIdioma: " + idioma);
         }
     }
 
     public void legenda(boolean ligarDesligar) {
         if(ligarDesligar) {
-            ligarDesligar = false;
+            setPossuiLegenda(false);
+            System.out.println("Legenda desligada");
         } else {
-            ligarDesligar = true;
+            setPossuiLegenda(true);
+            System.out.println("Legenda ligada");
         }
+    }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                "Dvd{" +
+                "idioma='" + idioma + '\'' +
+                ", possuiLegenda=" + possuiLegenda +
+                ", idiomaLegenda='" + idiomaLegenda + '\'' +
+                '}';
     }
 }
