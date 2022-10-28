@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cffcb89a-784d-4399-a431-e4f10fc45470" name="Changes" comment="criação metodos na classe DoacaoDeMidia.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DoacaoMidia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoacaoMidia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dvd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Midia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Midia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666728133737</updated>
       <workItem from="1666728136089" duration="6972000" />
-      <workItem from="1666901210135" duration="5214000" />
+      <workItem from="1666901210135" duration="11314000" />
     </task>
     <task id="LOCAL-00001" summary="Projeto final POO Modulo2 programa DEVA - JAVA">
       <created>1666729205226</created>
@@ -89,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666906065335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="criação metodos na classe DoacaoDeMidia.">
+      <created>1666906793471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666906793471</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +127,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DoacaoMidia.java</url>
-          <line>15</line>
+          <line>16</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

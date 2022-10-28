@@ -28,7 +28,7 @@ public class Cd extends Midia{
 
     @Override
     public void darPlay() {
-        System.out.println("Primeira faixa tocando");
+        System.out.println("Primeira faixa tocando!");
     }
 
     @Override
@@ -42,15 +42,3 @@ public class Cd extends Midia{
 
 
 
-//
-//    Criar classe Filha chamada CD
-//
-//        Atributos:
-//
-//        artista : String
-//        quantidadeFaixas : int
-//        Métodos
-//
-//        sobrescrever darPlay(): exibir a mensagem "Primeira faixa tocando"
-//        construtor(todos os argumentos)
-//        get() e set()

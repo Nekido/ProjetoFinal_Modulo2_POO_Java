@@ -4,6 +4,8 @@ public class DoacaoMidia {
 
     public static void main(String[] args) {
 
+
+        System.out.println();
         Midia midia = pegarMidiaAleatoria();
         System.out.println(midia);
         midia.darPlay();
@@ -13,9 +15,9 @@ public class DoacaoMidia {
     public static Midia pegarMidiaAleatoria() {
 
         Cd um = new Cd("Reliquias", "25B369", 35.00, "Roberto Carlos", 16);
-        Dvd dois = new Dvd("Dupla Dinâmica", "31MV55", 66.87, "En-USA", true, "Pt-Br");
+        Dvd dois = new Dvd("Dupla Dinâmica", "31MV55", 66.87, "En-USA", true, "ES");
         Cd tres = new Cd("Melhores do ano", "02M378", 90.33, "Pagodão", 24);
-        Dvd quatro = new Dvd("Tom e Jerry", "78ZY55", 21.00, "En-USA", true, "ES");
+        Dvd quatro = new Dvd("Tom e Jerry", "78ZY55", 21.00, " ", true, " ");
 
         Random pegar = new Random();
 
@@ -34,7 +36,6 @@ public class DoacaoMidia {
 
         }
 
-
     }
 
     public static void assitirFilme(Dvd dvd) {
@@ -42,12 +43,3 @@ public class DoacaoMidia {
         dvd.legenda(dvd.isPossuiLegenda());
     }
 }
-//    Criar classe DoacaoMidia
-//
-//        Essa classe deve conter método pegarMidiaAleatoria() que devolve a variável possuiLegendauma midia já criada na biblioteca
-//
-//        aleatória
-//
-//        Esse classe deve conter método assisitirFilme(Dvd dvd) e chamar os dois métodos de legenda
-
-//        Método main: O main deve pegar uma midia aleatoria e dar o play
